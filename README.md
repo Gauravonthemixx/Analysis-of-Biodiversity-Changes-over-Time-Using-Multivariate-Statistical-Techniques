@@ -45,3 +45,8 @@
 * Multivariate analysis highlights the collective influence of environmental variables on overall biodiversity.
 
 ## Please Go Through [Biodiversity analysis HLD.pdf](https://github.com/Gauravonthemixx/Text-Analytics-of-TED-Talks/files/14670219/Biodiversity.analysis.HLD.pdf) for more info. 🔗
+
+## References
+* Chiarucci, A., Bacaro, G., Jentsch, A., & Rocchini, D. (2011). Spatially con- strained rarefaction: incorporating the autocorrelated structure of bio- logical communities into sample-based rarefaction. Community Ecology, 12(2), 179–186.
+* Koleff, P., Gaston, K. J., & Lennon, J. J. (2003). Measuring beta diversity for presence-absence data. Journal of Animal Ecology, 72(3), 367–382. Magurran, A. E. (2004). Measuring biological diversity. Wiley-Blackwell.
+* Pimm, S. L., Jenkins, C. N., Abell, R., Brooks, T. M., Gittleman, J. L., Joppa, L. N., . . . Sexton, J. O. (2014). The biodiversity of species and their rates of extinction, distribution, and protection. Science, 344(6187), 1246752.
