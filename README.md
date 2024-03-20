@@ -1,4 +1,9 @@
 # :rocket: Analysis-of-Biodiversity-Changes-over-Time-Using-Multivariate-Statistical-Techniques
+<img width="878" alt="Screenshot 2024-03-20 at 17 13 35" src="https://github.com/Gauravonthemixx/Analysis-of-Biodiversity-Changes-over-Time-Using-Multivariate-Statistical-Techniques/assets/91785440/8701c296-a1b4-4fa2-8e64-a9e2ce0bee41">
+
+<img width="876" alt="Screenshot 2024-03-20 at 17 13 00" src="https://github.com/Gauravonthemixx/Analysis-of-Biodiversity-Changes-over-Time-Using-Multivariate-Statistical-Techniques/assets/91785440/7c8ead73-57c1-4852-a71f-224a8e27ece4">
+
+<img width="840" alt="Screenshot 2024-03-20 at 17 12 04" src="https://github.com/Gauravonthemixx/Analysis-of-Biodiversity-Changes-over-Time-Using-Multivariate-Statistical-Techniques/assets/91785440/47de88da-3563-422e-a4e5-54c74be7d018">
 
 ## :pencil: Description
 * This project aims to investigate the changes in biodiversity over time using statistical analysis methods.
