@@ -37,3 +37,5 @@
 * Positive correlations are found between certain taxonomic groups, indicating co-occurrence patterns.
 * Linear regression analysis reveals relationships between species richness and environmental factors, suggesting potential drivers of biodiversity changes.
 * Multivariate analysis highlights the collective influence of environmental variables on overall biodiversity.
+
+## Please Go Through [Biodiversity analysis HLD.pdf](https://github.com/Gauravonthemixx/Text-Analytics-of-TED-Talks/files/14670219/Biodiversity.analysis.HLD.pdf) for more info. 🔗
